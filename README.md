@@ -56,9 +56,17 @@
 
 ---
 
+
+# Clone the repository
+git clone https://github.com/thekawix/L0g_cl3an3r.git
+cd log-cleaner
+
+# Make it executable
+chmod +x L0g_cl3an3r.sh
+# USAGE 
+sudo ./L0g_cl3an3r
+
 ## 🚀 Installation
 
 ### One-liner Installation
 ```bash
-sudo curl -o /usr/local/bin/logcleaner https://raw.githubusercontent.com/YOUR_USERNAME/log-cleaner/main/cleaner.sh
-sudo chmod +x /usr/local/bin/logcleaner
